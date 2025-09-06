@@ -1,4 +1,4 @@
-[Machine Learning Full Report.pdf](Machine Learning Full Report.pdf)
+[Machine Learning Full Report.pdf]
 
 # Machine Learning Project 1: Unsupervised Learning
 
