@@ -1,5 +1,3 @@
-# Machine-Learning-Project-1
-
 # Machine Learning Project 1: Unsupervised Learning
 
 This project analyzes mobile device usage data using unsupervised learning techniques. The aim is to uncover hidden user behavior patterns and segment users into distinct groups.  
