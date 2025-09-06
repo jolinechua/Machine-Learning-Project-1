@@ -1,4 +1,4 @@
-[Machine Learning Full Report.pdf]
+[Machine Learning Full Report.pdf](https://github.com/jolinechua/Machine-Learning-Projects/blob/b6a3dbb235df5e4f5e296de352b16b2308d79f17/Machine%20Learning%20Full%20Report.pdf)
 
 # Machine Learning Project 1: Unsupervised Learning
 
